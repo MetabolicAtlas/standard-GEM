@@ -2,7 +2,7 @@ This is the `README.md` template provided by [standard-GEM](https://github.com/S
 Blanks are indicated by `{{ }}`. Below are examples of blanks used throughout this file:  
 `{{organization or username}}` is the organization name or username for this GitHub repository, eg. `SysBioChalmers`  
 `{{repository name}}` is the name of this GitHub repository, eg. `yeast-GEM`  
-Please delete this paragraph after replacing the blanks (using find and replace).  
+PLEASE DELETE THIS PARAGRAPH  
 
 
 ## {{repository name}}: {{repository description}}
