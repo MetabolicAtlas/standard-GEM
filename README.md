@@ -1,8 +1,8 @@
+> Please read the paragraph below and delete it:  
 This is the `README.md` template provided by [standard-GEM](https://github.com/SysBioChalmers/standard-GEM).
 Blanks are indicated by `{{ }}`. Below are examples of blanks used throughout this file:  
 `{{organization or username}}` is the organization name or username for this GitHub repository, eg. `SysBioChalmers`  
 `{{repository name}}` is the name of this GitHub repository, eg. `yeast-GEM`  
-PLEASE DELETE THIS PARAGRAPH  
 
 
 ## {{repository name}}: {{repository description}}
