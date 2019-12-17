@@ -54,4 +54,4 @@ Blanks are indicated by `{{ }}`. Below are examples of blanks used throughout th
 
 ### Contributing
 
-Contributions are always welcome! Please read the [contributions guideline](https://github.com/SysBioChalmers/yeast-GEM/blob/master/.github/CONTRIBUTING.md) to get started.
+Contributions are always welcome! Please read the [contributing guideline](.github/CONTRIBUTING.md) to get started.
