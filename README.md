@@ -27,19 +27,19 @@ This is the `README.md` template provided by [standard-GEM](https://github.com/S
 
 #### Model Keywords
 
-**Utilisation:** experimental data reconstruction, multi-omics integrative analysis, _in silico_ strain design, model template  
-**Field:** metabolic-network reconstruction  
-**Type of Model:** reconstruction, curated  
-**Model Source:** YeastMetabolicNetwork  
-**Omic Source:** genomics, metabolomics  
-**Taxonomy:** _Saccharomyces cerevisiae_  
-**Metabolic System:** general metabolism  
+**Utilisation:** {{ experimental data reconstruction, multi-omics integrative analysis, _in silico_ strain design, model template }}  
+**Field:** {{ metabolic-network reconstruction }}  
+**Type of Model:** {{ reconstruction, curated }}  
+**Model Source:** {{ YeastMetabolicNetwork }}  
+**Omic Source:** {{ genomics, metabolomics }}  
+**Taxonomy:** {{ _Saccharomyces cerevisiae_ }}  
+**Metabolic System:** {{ general metabolism }}  
 **Tissue:**  
 **Bioreactor:**    
 **Cell type:**  
 **Cell line:**  
-**Strain:** S288C  
-**Condition:** aerobic, glucose-limited, defined media  
+**Strain:** {{ S288C }}  
+**Condition:** {{ aerobic, glucose-limited, defined media }}  
 
 
 ### Installation
