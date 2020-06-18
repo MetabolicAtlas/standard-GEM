@@ -1,8 +1,8 @@
-> Please read the paragraph below and delete it:  
-This is the `README.md` template provided by [standard-GEM](https://github.com/SysBioChalmers/standard-GEM).
-Blanks are indicated by `{{ }}`. Below are examples of blanks used throughout this file:  
-`{{organization or username}}` is the organization name or username for this GitHub repository, eg. `SysBioChalmers`  
-`{{repository name}}` is the name of this GitHub repository, eg. `yeast-GEM`  
+> Introduction (please delete after reading):  
+[standard-GEM](https://github.com/SysBioChalmers/standard-GEM) is a template repository that aims to standardize the format of genome-scale metabolic models (GEMs) versioned with git. In addition to encouraging the open-sourcing of GEMs, it facilitates the import of GEMs into databases and online websites. Moreover, it provides the community with a familiar structure that is easy to adopt through this repository itself. The template comes with a set of requirements and recommendations, packaged as to-do items in a hidden Markdown file in this repository `.standard-GEM.md`. After downloading this repository, or using it as a template, those to-do items provide guidance to how adherence to the standard can be obtained.
+
+> Instructions for this `README` (please delete after reading):  
+This is the `README.md` template provided by [standard-GEM](https://github.com/SysBioChalmers/standard-GEM). Blanks are indicated by `{{ }}`. Here are some examples of blanks used throughout this file: `{{organization or username}}` is the organization name or username for this GitHub repository, eg. `SysBioChalmers`; `{{repository name}}` is the name of this GitHub repository, eg. `yeast-GEM`.
 
 
 ## {{repository name}}: {{repository description}}
