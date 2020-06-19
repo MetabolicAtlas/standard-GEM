@@ -28,11 +28,13 @@ Blanks are indicated by `{{ }}`. One may use a search function to find these. He
 
 #### Model Keywords
 
-**Utilisation:** {{ experimental data reconstruction, multi-omics integrative analysis, _in silico_ strain design, model template }}  
+> Keywords are be separated by semicolons.
+
+**Utilisation:** {{ experimental data reconstruction; multi-omics integrative analysis;, _in silico_ strain design; model template }}  
 **Field:** {{ metabolic-network reconstruction }}  
-**Type of Model:** {{ reconstruction, curated }}  
+**Type of Model:** {{ reconstruction; curated }}  
 **Model Source:** {{ YeastMetabolicNetwork }}  
-**Omic Source:** {{ genomics, metabolomics }}  
+**Omic Source:** {{ genomics; metabolomics }}  
 **Taxonomy:** {{ _Saccharomyces cerevisiae_ }}  
 **Metabolic System:** {{ general metabolism }}  
 **Tissue:**  
@@ -40,7 +42,7 @@ Blanks are indicated by `{{ }}`. One may use a search function to find these. He
 **Cell type:**  
 **Cell line:**  
 **Strain:** {{ S288C }}  
-**Condition:** {{ aerobic, glucose-limited, defined media }}  
+**Condition:** {{ aerobic; glucose-limited; defined media }}  
 
 
 ### Installation
