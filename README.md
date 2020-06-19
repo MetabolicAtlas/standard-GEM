@@ -13,7 +13,7 @@ Blanks are indicated by `{{ }}`. One may use a search function to find these. He
 [![Gitter chat](https://badges.gitter.im/{{organization or username}}/{{repository name}}.svg)](https://gitter.im/{{organization or username}}/{{repository name}})
 
 
-#### Brief Model Description
+#### Description
 
 {{ fill in a short description or the paper abstract }}
 
@@ -26,17 +26,18 @@ Blanks are indicated by `{{ }}`. One may use a search function to find these. He
 }}
 
 
-#### Model Keywords
+#### Keywords
 
 > Keywords are be separated by semicolons.
+> The `Model source` field contains the source(s) of the current model, eg existing GEMs. If possible, use the Markdown format to add the URL with the DOI.
 
 **Utilisation:** {{ experimental data reconstruction; multi-omics integrative analysis;, _in silico_ strain design; model template }}  
 **Field:** {{ metabolic-network reconstruction }}  
-**Type of Model:** {{ reconstruction; curated }}  
-**Model Source:** {{ YeastMetabolicNetwork }}  
-**Omic Source:** {{ genomics; metabolomics }}  
+**Type of model:** {{ reconstruction; curated }}  
+**Model source:** {{ [YeastMetabolicNetwork](http://doi.org/10.1038/nbt1492) }}  
+**Omic source:** {{ genomics; metabolomics }}  
 **Taxonomy:** {{ _Saccharomyces cerevisiae_ }}  
-**Metabolic System:** {{ general metabolism }}  
+**Metabolic system:** {{ general metabolism }}  
 **Tissue:**  
 **Bioreactor:**    
 **Cell type:**  
