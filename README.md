@@ -37,7 +37,8 @@ If you find this template does not fit your needs, we would appreciate if you co
 **Type of model:** {{ reconstruction; curated }}  
 **Model source:** {{ [YeastMetabolicNetwork](http://doi.org/10.1038/nbt1492) }}  
 **Omic source:** {{ genomics; metabolomics }}  
-**Taxonomy:** {{ _Saccharomyces cerevisiae_ }}  
+**Taxonomic name:** {{ _Saccharomyces cerevisiae_ }}  
+**Genome ID:** {{ provide identifier from PATRIC or GenBank }}  
 **Metabolic system:** {{ general metabolism }}  
 **Tissue:**  
 **Bioreactor:**    
