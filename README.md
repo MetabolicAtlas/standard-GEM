@@ -30,7 +30,7 @@ If you find this template does not fit your needs, we would appreciate if you co
 #### Keywords
 
 > Keywords are be separated by semicolons.
-> The `Model source` field contains the source(s) of the current model, eg existing GEMs. If possible, use the Markdown format to add the URL with the DOI. For the genome identifier, please provide the ENA/GenBank/RefSeq identifier via *identifiers.org*.
+> The `Model source` field contains the source(s) of the current model, eg existing GEMs. If possible, use the Markdown format to add the URL with the DOI. For the genome identifier, please provide the ENA/GenBank/RefSeq identifier via *identifiers.org*, or from other sources such as PATRIC or KBase.
 
 **Utilisation:** {{ experimental data reconstruction; multi-omics integrative analysis;, _in silico_ strain design; model template }}  
 **Field:** {{ metabolic-network reconstruction }}  
