@@ -30,7 +30,7 @@ If you find this template does not fit your needs, we would appreciate if you co
 #### Keywords
 
 > Keywords are be separated by semicolons.
-> The `Model source` field contains the source(s) of the current model, eg existing GEMs. If possible, use the Markdown format to add the URL with the DOI. For the genome identifier, please provide the ENA/GenBank/RefSeq identifier via *identifiers.org*, or from other sources such as PATRIC or KBase.
+> The `Model source` field contains the source(s) of the current model, eg existing GEMs. If possible, use the Markdown format to add the URL with the DOI. The (NCBI) taxonomy ID should be provided in the [format from identifiers.org](https://registry.identifiers.org/registry/taxonomy). For the genome identifier, please provide the ENA/GenBank/RefSeq identifier via *identifiers.org*, or from other sources such as PATRIC or KBase.  
 
 **Utilisation:** {{ experimental data reconstruction; multi-omics integrative analysis;, _in silico_ strain design; model template }}  
 **Field:** {{ metabolic-network reconstruction }}  
@@ -38,6 +38,7 @@ If you find this template does not fit your needs, we would appreciate if you co
 **Model source:** {{ [YeastMetabolicNetwork](http://doi.org/10.1038/nbt1492) }}  
 **Omic source:** {{ genomics; metabolomics }}  
 **Taxonomic name:** {{ _Saccharomyces cerevisiae_ }}  
+**Taxonomy ID:** {{ [taxonomy:559292](https://identifiers.org/taxonomy:559292) }}  
 **Genome ID:** {{ [insdc.gca:GCA_000146045.2](https://identifiers.org/insdc.gca:GCA_000146045.2)  }}  
 **Metabolic system:** {{ general metabolism }}  
 **Tissue:**  
