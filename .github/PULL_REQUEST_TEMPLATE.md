@@ -4,5 +4,5 @@
 **I hereby confirm that I have:**
 <!-- Note: replace [ ] with [X] to check the box. -->
 
-- [ ] Tested my code on my own computer for running the model
-- [ ] Selected `devel` as a target branch
+- [ ] tested my code on my own computer for running the model
+- [ ] selected `devel` as a target branch

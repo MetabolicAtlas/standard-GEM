@@ -17,7 +17,7 @@
 **I hereby confirm that I have:**
 <!-- Note: replace [ ] with [X] to check the box. -->
 
-- [ ] Tested my code with to run the model
-- [ ] Done this analysis in the `main` branch of the repository
-- [ ] Checked that a similar issue does not exist already
-- [ ] If needed, asked first in the Gitter chat room about the issue
+- [ ] tested my code with to run the model
+- [ ] done this analysis in the `main` branch of the repository
+- [ ] checked that a similar issue does not exist already
+- [ ] if needed, asked first in the Gitter chat room about the issue
