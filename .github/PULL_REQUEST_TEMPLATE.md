@@ -5,4 +5,4 @@
 <!-- Note: replace [ ] with [X] to check the box. -->
 
 - [ ] tested my code on my own computer for running the model
-- [ ] selected `devel` as a target branch
+- [ ] selected `develop` as a target branch
