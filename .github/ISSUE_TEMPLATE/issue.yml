@@ -1,0 +1,65 @@
+name: Issue
+description: Open an issue.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to open this issue!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Description of the issue
+      description: Please describe what this is about
+      placeholder: Please keep it concise and clear
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected feature/value/output
+      description: Tell us what you would have expected
+      placeholder: The more concrete the better
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Current feature/value/output
+      description: Share with us what is currently happening
+      placeholder: An example is very useful
+    validations:
+      required: false
+  - type: textarea
+    id: reproducing
+    attributes:
+      label: Reproducing these results
+      description: How would you go about reproducing the results?
+      render: shell
+      placeholder: Best if you can also share some code
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Confirmation
+      description: I hereby confirm that I have..
+      options:
+        - label: tested my code to run the model
+        - label: done this analysis in the `main` branch of the repository
+        - label: checked that a similar issue does not exist already
+        - label: if needed, asked first in _Discussions_ about the issue
+  - type: upload
+    id: screenshots
+    attributes:
+      label: Upload screenshots
+      description: If applicable, add screenshots.
+    validations:
+      required: false

@@ -66,4 +66,4 @@ Contributions are always welcome! Please read the [contributing guideline](.gith
 
 ### Contributors
 
-Code contributors are reported automatically by GitHub under [Contributors](https://github.com/{{organization or username}}/{{repository name}}/graphs/contributors), while other contributions come in as [Issues](https://github.com/{{organization or username}}/{{repository name}}/issues).
+Code contributors are reported automatically by GitHub under [Contributors](https://github.com/{{organization-or-username}}/{{repository-name}}/graphs/contributors), while other contributions come in as [Issues](https://github.com/{{organization-or-username}}/{{repository-name}}/issues).
