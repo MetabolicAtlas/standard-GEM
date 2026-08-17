@@ -3,7 +3,7 @@
 
 > Instructions for this `README` (please delete after reading):  
 This is the `README.md` template provided by [standard-GEM](https://github.com/MetabolicAtlas/standard-GEM) and was crafted to cover most use-cases.  
-Feel free to edit this template `README`. Blanks are indicated by `{{ test }}`. One may use a search function to find these `{{`. Here are some examples of blanks used throughout this file: `{{organisation or username}}` is the organisation name or username for this GitHub repository, eg. `SysBioChalmers`; `{{repository name}}` is the name of this GitHub repository, eg. `yeast-GEM`.\
+Feel free to edit this template `README`. Blanks are indicated by `{{ test }}`. One may use a search function to find these `{{`. Here are some examples of blanks used throughout this file: `{{organisation or username}}` is the organisation name or username for this GitHub repository, eg. `SysBioChalmers`; `{{repository name}}` is the name of this GitHub repository, eg. `yeast-GEM`.  
 If you find this template does not fit your needs, we would appreciate if you could report this by creating a new issue on [standard-GEM](https://github.com/MetabolicAtlas/standard-GEM/issues).
 
 
@@ -66,4 +66,4 @@ Contributions are always welcome! Please read the [contributing guideline](.gith
 
 ### Contributors
 
-Code contributors are reported automatically by GitHub under [Contributors](https://github.com/{{organisation-or-username}}/{{repository-name}}/graphs/contributors), while other contributions come in as [Issues](https://github.com/{{organisation-or-username}}/{{repository-name}}/issues).
+Code contributors are reported automatically by GitHub under [Contributors](https://github.com/{{organisation or username}}/{{repository name}}/graphs/contributors), while other contributions come in as [Issues](https://github.com/{{organisation or username}}/{{repository name}}/issues).
