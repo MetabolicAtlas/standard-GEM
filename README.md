@@ -7,7 +7,7 @@ Feel free to edit this template `README`. Blanks are indicated by `{{ test }}`. 
 If you find this template does not fit your needs, we would appreciate if you could report this by creating a new issue on [standard-GEM](https://github.com/MetabolicAtlas/standard-GEM/issues).
 
 
-## {{repository name}}: {{repository description}}
+## {{ repository name }}: {{ repository description }}
 
 [![Version](https://badge.fury.io/gh/{{organisation or username}}%2F{{repository name}}.svg)](https://badge.fury.io/gh/sysbiochalmers/yeast-gem)\
 [![Zenodo](https://zenodo.org/badge/{{Zenodo ID}}.svg)](https://zenodo.org/badge/latestdoi/{{Zenodo ID}})  
