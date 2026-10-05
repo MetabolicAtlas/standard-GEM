@@ -9,9 +9,9 @@ If you find this template does not fit your needs, we would appreciate if you co
 
 ## {{ repository name }}: {{ repository description }}
 
-[![Version](https://badge.fury.io/gh/{{organisation or username}}%2F{{repository name}}.svg)](https://badge.fury.io/gh/sysbiochalmers/yeast-gem)\
-[![Zenodo](https://zenodo.org/badge/{{Zenodo ID}}.svg)](https://zenodo.org/badge/latestdoi/{{Zenodo ID}})  
-[![Gitter chat](https://badges.gitter.im/{{organisation or username}}/{{repository name}}.svg)](https://gitter.im/{{organisation or username}}/{{repository name}})
+[![Version](https://badge.fury.io/gh/{{organisation-or-username/repository-name}}.svg)](https://badge.fury.io/gh/organisation-or-username/repository-name)
+[![Zenodo](https://zenodo.org/badge/{{Zenodo-ID}}.svg)](https://zenodo.org/badge/latestdoi/{{Zenodo-ID}})  
+[![Gitter chat](https://badges.gitter.im/{{organisation-or-username}}/{{repository-name}}.svg)](https://gitter.im/{{organisation-or-username}}/{{repository-name}})
 
 
 #### Description
@@ -29,7 +29,8 @@ If you find this template does not fit your needs, we would appreciate if you co
 
 #### Keywords
 
-> Keywords are be separated by semicolons.
+> All keywords below should be separated by semicolons.
+> 
 > The `Model source` field contains the source(s) of the current model, eg existing GEMs. If possible, use the Markdown format to add the URL with the DOI. The (NCBI) taxonomy ID should be provided in the [format from identifiers.org](https://registry.identifiers.org/registry/taxonomy). For the genome identifier, please provide the ENA/GenBank/RefSeq identifier via *identifiers.org*, or from other sources such as PATRIC or KBase.  
 
 **Utilisation:** {{ experimental data reconstruction; multi-omics integrative analysis;, _in silico_ strain design; model template }}  
@@ -66,4 +67,4 @@ Contributions are always welcome! Please read the [contributing guideline](.gith
 
 ### Contributors
 
-Code contributors are reported automatically by GitHub under [Contributors](https://github.com/{{organisation or username}}/{{repository name}}/graphs/contributors), while other contributions come in as [Issues](https://github.com/{{organisation or username}}/{{repository name}}/issues).
+Code contributors are reported automatically by GitHub under [Contributors](https://github.com/{{organisation-or-username/repository-name}}/graphs/contributors), while other contributions come in as [Issues](https://github.com/{{organisation-or-username/repository-name}}/issues).
